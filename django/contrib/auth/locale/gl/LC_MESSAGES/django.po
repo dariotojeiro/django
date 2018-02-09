@@ -31,7 +31,7 @@ msgstr "Datas importantes"
 
 #, python-format
 msgid "%(name)s object with primary key %(key)r does not exist."
-msgstr ""
+msgstr "%(name)s obxeto con clave primaria %(key)r non existe."
 
 msgid "Password changed successfully."
 msgstr "O contrasinal cambiouse correctamente."
@@ -41,7 +41,7 @@ msgid "Change password: %s"
 msgstr "Cambiar o contrasinal: %s"
 
 msgid "Authentication and Authorization"
-msgstr ""
+msgstr "Atentificación e Autorización"
 
 msgid "password"
 msgstr "contrasinal"
@@ -65,7 +65,7 @@ msgid "Password confirmation"
 msgstr "Confirmación do contrasinal"
 
 msgid "Enter the same password as before, for verification."
-msgstr ""
+msgstr "Introduza a mesma contrasena de novo"
 
 msgid ""
 "Raw passwords are not stored, so there is no way to see this user's "
@@ -115,19 +115,19 @@ msgid "hash"
 msgstr "hash"
 
 msgid "variety"
-msgstr ""
+msgstr "variedade"
 
 msgid "version"
-msgstr ""
+msgstr "versión"
 
 msgid "memory cost"
-msgstr ""
+msgstr "custe de memoria"
 
 msgid "time cost"
-msgstr ""
+msgstr "custe de tempo"
 
 msgid "parallelism"
-msgstr ""
+msgstr "paralelismo"
 
 msgid "work factor"
 msgstr "factor de traballo"
@@ -139,7 +139,7 @@ msgid "name"
 msgstr "nome"
 
 msgid "content type"
-msgstr ""
+msgstr "tipo de contido"
 
 msgid "codename"
 msgstr "código"
@@ -169,18 +169,19 @@ msgid ""
 "The groups this user belongs to. A user will get all permissions granted to "
 "each of their groups."
 msgstr ""
+"Os grupos aos que pertence o usuario. O usuario vai obter tódolos permisos asociados a cada grupo"
 
 msgid "user permissions"
 msgstr "permisos de usuario"
 
 msgid "Specific permissions for this user."
-msgstr ""
+msgstr "Permisos específicos do usuario"
 
 msgid "username"
 msgstr "nome de usuario"
 
 msgid "Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only."
-msgstr ""
+msgstr "Requírense 150 caracteres ou menos. Só letras, díxitos ou caracteres @/./+/-/_"
 
 msgid "A user with that username already exists."
 msgstr "Xa existe un usuario con ese nome de usuario."
@@ -224,35 +225,35 @@ msgid ""
 "This password is too short. It must contain at least %(min_length)d "
 "character."
 msgid_plural ""
-"This password is too short. It must contain at least %(min_length)d "
-"characters."
+"O contrasinal é demasiado curto. Debe conter cando menos %(min_length)d "
+"caracteres."
 msgstr[0] ""
 msgstr[1] ""
 
 #, python-format
 msgid "Your password must contain at least %(min_length)d character."
-msgid_plural "Your password must contain at least %(min_length)d characters."
+msgid_plural "O contrasinal debe conter cando menos %(min_length)d caracteres."
 msgstr[0] ""
 msgstr[1] ""
 
 #, python-format
 msgid "The password is too similar to the %(verbose_name)s."
-msgstr ""
+msgstr "O contrasinal é demasiad similar ao %(verbose_name)s."
 
 msgid "Your password can't be too similar to your other personal information."
-msgstr ""
+msgstr "O teu contrasinal non pode ser tan similar á túa información persoal"
 
 msgid "This password is too common."
-msgstr ""
+msgstr "O contrasinal é demasiado común"
 
 msgid "Your password can't be a commonly used password."
-msgstr ""
+msgstr "O teu contrasinal non pode ser un usado comunmente"
 
 msgid "This password is entirely numeric."
-msgstr ""
+msgstr "O contrasinal é só numérico"
 
 msgid "Your password can't be entirely numeric."
-msgstr ""
+msgstr "O contrasinal non pode ser só numérico"
 
 #, python-format
 msgid "Password reset on %(site_name)s"
@@ -262,32 +263,34 @@ msgid ""
 "Enter a valid username. This value may contain only English letters, "
 "numbers, and @/./+/-/_ characters."
 msgstr ""
+"Introduza un nume de usuario válido. Este valor debe conter só letras, números, ou os caracteres @/./+/-/_"
 
 msgid ""
 "Enter a valid username. This value may contain only letters, numbers, and "
 "@/./+/-/_ characters."
 msgstr ""
+"Introduza un nume de usuario válido. Este valor debe conter só letras, números, ou os caracteres @/./+/-/_"
 
 msgid "Logged out"
 msgstr "Rematou a sesión"
 
 msgid "Password reset"
-msgstr ""
+msgstr "Restablecer contrasinal"
 
 msgid "Password reset sent"
-msgstr ""
+msgstr "Enviar contrasinal restablecido"
 
 msgid "Enter new password"
-msgstr ""
+msgstr "Insira un novo contrasinal"
 
 msgid "Password reset unsuccessful"
-msgstr ""
+msgstr "Contrasinal restablecido correctamente"
 
 msgid "Password reset complete"
-msgstr ""
+msgstr "Contrasinal restablecido completamente"
 
 msgid "Password change"
-msgstr ""
+msgstr "Cambio contrasinal"
 
 msgid "Password change successful"
-msgstr ""
+msgstr "Cambio de contrasinal correcto"
